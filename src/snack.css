@@ -1,5 +1,5 @@
 body {
-  color: #fff;
+  color: black;
   font-family: Helvetica, Arial, sans-serif;
 }
   font-weight: bold;
@@ -13,6 +13,7 @@ body {
 
 p {
    font-family: Helvetica, Arial, sans-serif;
+  font-color: black;
   font-size: 14px;
  align-items: center;
   display: flex;
