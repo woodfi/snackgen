@@ -4,9 +4,9 @@ const pick =  new Array();
 pick[1] = "  Have a Cupcakes"
 pick[2] =  " Share the joy of a Oreo
 pick[3] = "Have a Kitkat Choclate"
-pick[4] = ""
-pick[5] = " SHIP THAT SHIT - Sergio Mattei, Founder of Makerlog"
-pick[6] = "You only live once, but if you do it right, once is enough"
+pick[4] = "Go have a Cheez-It "
+pick[5] = " Go have some 	Campbell's Soup, Rember This?"
+pick[6] = "Go Have some Choclate"
 pick[7] = " Haters are gonna hate, people say haters gonna hate, makers gonna make. I say Let them Hate, Absorb the ate and use it to build or start your day - Arav Narula"
 pick[8] = " You can do this, You have the power. By the power vested in me by the state of the world, you can do it"
 pick[9] = "“The purpose of our lives is to be happy.” "
@@ -22,6 +22,8 @@ const show = pick[choose]
 
 console.log(pick[choose])
 document.getElementById('filter').innerHTML=show;
+
+let snack_FR = none;
 
 
 /// Time and Date 
