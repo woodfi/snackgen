@@ -1,10 +1,10 @@
 
 const pick =  new Array();
 
-pick[1] = " We might have come from differnt places,  but we all have the same hear that keeps us together - MLK"
-pick[2] =  " Love the world and the world will love you back"
-pick[3] = "Be yourself; everyone else is already taken."
-pick[4] = "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."
+pick[1] = "  Have a Cupcakes"
+pick[2] =  " Share the joy of a Oreo
+pick[3] = "Have a Kitkat Choclate"
+pick[4] = ""
 pick[5] = " SHIP THAT SHIT - Sergio Mattei, Founder of Makerlog"
 pick[6] = "You only live once, but if you do it right, once is enough"
 pick[7] = " Haters are gonna hate, people say haters gonna hate, makers gonna make. I say Let them Hate, Absorb the ate and use it to build or start your day - Arav Narula"
@@ -30,5 +30,14 @@ const time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSecond
 
 document.getElementById("fill").innerHTML=time;
  
+
+// Snack
+
+const snack() {
+ 
+ name: pick[1],
+  image: oreo.jpg
+
+}
 
     
