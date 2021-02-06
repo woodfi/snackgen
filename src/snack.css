@@ -1,9 +1,17 @@
 body {
   color: #fff;
   font-family: Helvetica, Arial, sans-serif;
+}
   font-weight: bold;
   height: 100%;
   line-height: 1;
   background: #121212;
   margin: 0;
+}
+
+// Some CSS from https://github.com/heybereket/bored.lol
+
+p {
+   font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
 }
